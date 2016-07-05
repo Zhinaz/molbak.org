@@ -24,9 +24,7 @@
           <ul class="dropdown-menu">
             <li><a href="/aalborg">Aalborg</a></li>
             <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">One more separated link</a></li>
+            <li><a href="http://ggez.molbak.org">GGEZ</a></li>
           </ul>
         </li>
       </ul>
