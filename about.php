@@ -16,7 +16,7 @@
   <?php include 'includes/upper-body.php';?>
   
   <!-- About me -->
-  <div class="panel panel-default">
+  <div class="panel panel-primary">
     <div class="panel-heading">
       <h3 class="panel-title">About me</h3>
     </div>
@@ -50,7 +50,7 @@
   </div>
   
   <!-- Links worth looking at -->
-  <div class="panel panel-default">
+  <div class="panel panel-primary">
     <div class="panel-heading">
       <h3 class="panel-title">Links worth looking at</h3>
     </div>

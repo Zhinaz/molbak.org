@@ -15,7 +15,7 @@
 <body>
   <?php include 'includes/upper-body.php';?>
   
-  <div class="panel panel-default">
+  <div class="panel panel-primary">
     <div class="panel-body" style="text-align:center">
       <?php
       $servername = "mysql.molbak.org";

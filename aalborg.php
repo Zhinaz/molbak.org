@@ -16,13 +16,13 @@
   <?php include 'includes/upper-body.php';?>
   
   
-  <div class="panel panel-default">
+  <div class="panel panel-primary">
     <div class="panel-heading">
       <h2 class="panel-title">Aalborg - Card drinking game</h2>
     </div>
     <div class="panel-body">
       
-      <div class="panel panel-default">
+      <div class="panel panel-primary">
         <div class="panel-heading">
           <h2 class="panel-title">Prerequisites</h2>
         </div>
@@ -35,7 +35,7 @@
         </div>
       </div>
       
-      <div class="panel panel-default">
+      <div class="panel panel-primary">
         <div class="panel-heading">
           <h2 class="panel-title">Game Setup</h2>
         </div>
@@ -51,13 +51,13 @@
         </div>
       </div>
       
-      <div class="panel panel-default">
+      <div class="panel panel-primary">
         <div class="panel-heading">
           <h2 class="panel-title">Rules</h2>
         </div>
         <div class="panel-body">
           
-          <div class="panel panel-default">
+          <div class="panel panel-primary">
             <div class="panel-heading">
               <h2 class="panel-title">General Rules</h2>
             </div>
@@ -66,7 +66,7 @@
             </div>
           </div>
           
-          <div class="panel panel-default">
+          <div class="panel panel-primary">
             <div class="panel-heading">
               <h2 class="panel-title">McDonald</h2>
             </div>
@@ -75,7 +75,7 @@
             </div>
           </div>
           
-          <div class="panel panel-default">
+          <div class="panel panel-primary">
             <div class="panel-heading">
               <h2 class="panel-title">Bus Ride</h2>
             </div>
@@ -84,7 +84,7 @@
             </div>
           </div>
           
-          <div class="panel panel-default">
+          <div class="panel panel-primary">
             <div class="panel-heading">
               <h2 class="panel-title">Casino</h2>
             </div>
@@ -93,7 +93,7 @@
             </div>
           </div>
           
-          <div class="panel panel-default">
+          <div class="panel panel-primary">
             <div class="panel-heading">
               <h2 class="panel-title">Bar Fight</h2>
             </div>
@@ -102,7 +102,7 @@
             </div>
           </div>
           
-          <div class="panel panel-default">
+          <div class="panel panel-primary">
             <div class="panel-heading">
               <h2 class="panel-title">Lady Hunt</h2>
             </div>
