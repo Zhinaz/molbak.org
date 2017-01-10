@@ -24,6 +24,8 @@
           <ul class="dropdown-menu">
             <li><a href="/aalborg">Aalborg</a></li>
             <li role="separator" class="divider"></li>
+            <li><a href="http://ninja.molbak.org">Browser game</a></li>
+            <li role="separator" class="divider"></li>
             <li><a href="http://ggez.molbak.org">GGEZ</a></li>
           </ul>
         </li>
